@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: jian
+    password: gaojian1990
+    url:
+
+server:
+  error:
+    whitelabel:
+      enabled: false
